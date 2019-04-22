@@ -9,8 +9,11 @@
     "test": "jest"
   },
   "keywords": ["parse", "arguments", "callable", "function", "dependency injection", "di"],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "email": "al.lizurchik@gmail.com",
+    "name": "Alexey Lizurchik"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
