@@ -1,6 +1,6 @@
 {
   "name": "argumentsof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm module which parses arguments of any callables.",
   "main": "argumentsOf.js",
   "scripts": {
@@ -12,7 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/likerRr/argumentsof.git"
   },
-  "keywords": ["parse", "arguments", "callable", "function", "dependency injection", "di"],
+  "keywords": [
+    "parse",
+    "arguments",
+    "callable",
+    "function",
+    "dependency injection",
+    "di"
+  ],
   "author": {
     "email": "al.lizurchik@gmail.com",
     "name": "Alexey Lizurchik"
