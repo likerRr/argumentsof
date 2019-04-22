@@ -2,6 +2,10 @@
 
 Npm module which parses arguments of any callables.
 
+## Installation
+
+`npm install argumentsof`
+
 ## Usage
 
 ```js
