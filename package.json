@@ -8,6 +8,10 @@
     "prepublish": "npm test -- --coverage",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likerRr/argumentsof.git"
+  },
   "keywords": ["parse", "arguments", "callable", "function", "dependency injection", "di"],
   "author": {
     "email": "al.lizurchik@gmail.com",
